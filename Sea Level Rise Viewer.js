@@ -1,9 +1,8 @@
 /*
- * Copyright (c) 2008-2015 The Open Source Geospatial Foundation
- *
- * Published under the BSD license.
- * See https://github.com/geoext/geoext2/blob/master/license.txt for the full
- * text of the license.
+ * Adopted from The Open Source Geospatial Foundation
+ 
+ *Extended by Mbani Benson tosimulate impacts of lake level changes on lakeshore towns of Kisumu and Kampala
+ 
  */
 
 Ext.require([
