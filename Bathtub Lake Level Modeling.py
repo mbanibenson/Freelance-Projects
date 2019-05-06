@@ -1,8 +1,8 @@
 # ---------------------------------------------------------------------------
-# linerepair.py
-# Created on: 2017-03-15  
+# bathtub.py
+# Created on: 
 # Description: 
-# This tool is used to compute Rural Access Index (RAI) based on a set of population, urban area and roads data
+# This tool computes impacts of lake level rise using bath tub approach.
 # ---------------------------------------------------------------------------
 
 # Set the necessary product code
